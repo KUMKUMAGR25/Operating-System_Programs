@@ -1,2 +1,2 @@
-# C-programs
-Class Practicals
+## C++ Programs
+Practicals
