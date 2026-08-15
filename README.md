@@ -1,2 +1,2 @@
 ## C++ Programs
-Practicals
+College Practicals
