@@ -1,6 +1,6 @@
 ## C++ Programs
 OS Practicals
 <br>
-FCFS CPU Scheduling
+1.FCFS CPU Scheduling
 <br>
-SJF
+2.SJF Scheduling
