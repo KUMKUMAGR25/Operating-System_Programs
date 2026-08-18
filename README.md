@@ -4,3 +4,5 @@ OS Practicals
 1.FCFS CPU Scheduling
 <br>
 2.SJF Scheduling
+<br>
+3. Priority CPU Scheduling 
