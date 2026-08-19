@@ -7,4 +7,4 @@ OS Practicals
 <br>
 3. Round Robin CPU Scheduling
 <br>
-4.SJF Scheduling
+4.SJF CPU Scheduling
