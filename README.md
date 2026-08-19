@@ -5,4 +5,6 @@ OS Practicals
 <br>
 2. Priority CPU Scheduling 
 <br>
-3.SJF Scheduling
+3. Round Robin CPU Scheduling
+<br>
+4.SJF Scheduling
