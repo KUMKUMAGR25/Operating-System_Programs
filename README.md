@@ -1,5 +1,5 @@
-## C++ Programs
-# OS Practicals
+# C++ Programs
+## OS Practicals
 <br>
 # 1.FCFS CPU Scheduling
 <br>
