@@ -5,11 +5,11 @@ OS Practicals
 <br>
 FCFS is a CPU scheduling algorithm in which the process that arrives first in the ready queue gets executed first.
 <br>
-It follows the FIFO (First In, First Out) principle.
+● It follows the FIFO (First In, First Out) principle.
 <br>
-It is a non-preemptive scheduling algorithm.
+● It is a non-preemptive scheduling algorithm.
 <br>
-Once a process gets the CPU, it runs until it finishes.
+● Once a process gets the CPU, it runs until it finishes.
 <br>
 2. Priority CPU Scheduling 
 <br>
