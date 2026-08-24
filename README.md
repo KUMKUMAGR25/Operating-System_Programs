@@ -1,7 +1,7 @@
 ## C++ Programs
-OS Practicals
+# OS Practicals
 <br>
-1.FCFS CPU Scheduling
+# 1.FCFS CPU Scheduling
 <br>
 FCFS is a CPU scheduling algorithm in which the process that arrives first in the ready queue gets executed first.
 <br>
@@ -11,7 +11,7 @@ FCFS is a CPU scheduling algorithm in which the process that arrives first in th
 <br>
 ● Once a process gets the CPU, it runs until it finishes.
 <br>
-2. Priority CPU Scheduling 
+# 2. Priority CPU Scheduling 
 <br>
 Priority Scheduling is a CPU scheduling algorithm in which the CPU is assigned to the process having the highest priority.
 <br>
@@ -21,6 +21,6 @@ The process with the highest priority is executed first.
 ● It can be preemptive or non-preemptive.
 In many systems, a smaller priority number means higher priority.
 <br>
-3. Round Robin CPU Scheduling
+# 3. Round Robin CPU Scheduling
 <br>
-4.SJF CPU Scheduling
+# 4.SJF CPU Scheduling
