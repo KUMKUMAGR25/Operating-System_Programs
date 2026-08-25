@@ -23,4 +23,14 @@ In many systems, a smaller priority number means higher priority.
 <br>
 # 3. Round Robin CPU Scheduling
 <br>
+Round Robin is a preemptive CPU scheduling algorithm in which each process gets a fixed amount of CPU time called a Time Quantum (Time Slice).
+<br>
+● Processes are executed in circular/FIFO order.
+<br>
+● Each process gets the CPU for one time quantum.
+<br>
+● If a process is not completed within the quantum, it is preempted and moved to the end of the ready queue.
+<br>
+● It is commonly used in time-sharing systems.
+<br>
 # 4.SJF CPU Scheduling
