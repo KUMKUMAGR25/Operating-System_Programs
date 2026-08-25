@@ -34,3 +34,12 @@ Round Robin is a preemptive CPU scheduling algorithm in which each process gets 
 ● It is commonly used in time-sharing systems.
 <br>
 # 4.SJF CPU Scheduling
+<br>
+SJF is a CPU scheduling algorithm in which the process having the shortest CPU burst time is executed first.
+<br>
+● It can be preemptive or non-preemptive.
+<br>
+● In non-preemptive SJF, once a process starts, it runs until completion.
+<br>
+● In preemptive SJF, also called Shortest Remaining Time First (SRTF), a newly arrived shorter process can interrupt the current process.
+
