@@ -11,6 +11,7 @@ FCFS is a CPU scheduling algorithm in which the process that arrives first in th
 <br>
 ● Once a process gets the CPU, it runs until it finishes.
 <br>
+<br>
 # 2. Priority CPU Scheduling 
 <br>
 Priority Scheduling is a CPU scheduling algorithm in which the CPU is assigned to the process having the highest priority.
@@ -20,6 +21,7 @@ The process with the highest priority is executed first.
 <br>
 ● It can be preemptive or non-preemptive.
 In many systems, a smaller priority number means higher priority.
+<br>
 <br>
 # 3. Round Robin CPU Scheduling
 <br>
@@ -32,6 +34,7 @@ Round Robin is a preemptive CPU scheduling algorithm in which each process gets 
 ● If a process is not completed within the quantum, it is preempted and moved to the end of the ready queue.
 <br>
 ● It is commonly used in time-sharing systems.
+<br>
 <br>
 # 4.SJF CPU Scheduling
 <br>
