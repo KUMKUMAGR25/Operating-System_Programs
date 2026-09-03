@@ -45,4 +45,6 @@ SJF is a CPU scheduling algorithm in which the process having the shortest CPU b
 ● In non-preemptive SJF, once a process starts, it runs until completion.
 <br>
 ● In preemptive SJF, also called Shortest Remaining Time First (SRTF), a newly arrived shorter process can interrupt the current process.
+<br>
+
 
