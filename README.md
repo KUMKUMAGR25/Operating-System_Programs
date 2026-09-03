@@ -46,5 +46,11 @@ SJF is a CPU scheduling algorithm in which the process having the shortest CPU b
 <br>
 ● In preemptive SJF, also called Shortest Remaining Time First (SRTF), a newly arrived shorter process can interrupt the current process.
 <br>
-
+● FCFS: Simple and fair by arrival order, but may have high waiting time.
+<br>
+● SJF: Gives minimum average waiting time, but may cause starvation.
+<br>
+● Priority: Executes high-priority processes first, but low-priority processes may starve.
+<br>
+● Round Robin: Gives each process equal CPU time and good response, but causes more context switching.
 
