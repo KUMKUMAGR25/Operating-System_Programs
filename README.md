@@ -57,3 +57,5 @@ SJF is a CPU scheduling algorithm in which the process having the shortest CPU b
 <br>
 ● Round Robin: Gives each process equal CPU time and good response, but causes more context switching.
 <br>
+<br>
+#6. Producer consumer problem IPC.
