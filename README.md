@@ -63,10 +63,14 @@ SJF is a CPU scheduling algorithm in which the process having the shortest CPU b
 Inter-Process Communication (IPC) is a mechanism used by the operating system to allow processes to communicate and share data.
 
 In the Producer–Consumer problem:
+<br>
 
 Producer produces items and stores them in a shared buffer.
+<br>
 Consumer removes and consumes the items.
+<br>
 Semaphores are used to synchronize both processes.
+<br>
 Shared memory is used to exchange data between the processes.
-
+<br>
 Main goal: To prevent race conditions, buffer overflow, and buffer underflow.
