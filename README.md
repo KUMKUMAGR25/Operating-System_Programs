@@ -80,15 +80,15 @@ Inter-Process Communication (IPC) is a mechanism used by the operating system to
 <br>
 The Reader–Writer Problem is an OS synchronization problem where multiple readers can read shared data simultaneously, but only one writer can modify the data at a time.
 <br>
-**Rules:
+*Rules:
 <br>
-- Multiple readers can read simultaneously.
+-Multiple readers can read simultaneously.
 <br>
-- Only one writer can write at a time.
+-Only one writer can write at a time.
 <br>
-- Reading and writing cannot happen simultaneously.
+-Reading and writing cannot happen simultaneously.
 <br>
-**Solution: Semaphores and mutex locks are used to prevent race conditions and maintain data consistency.
+*Solution: Semaphores and mutex locks are used to prevent race conditions and maintain data consistency.
 <br>
-**Applications: Databases, file systems, and shared memory management.
+*Applications: Databases, file systems, and shared memory management.
 
