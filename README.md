@@ -76,7 +76,7 @@ Inter-Process Communication (IPC) is a mechanism used by the operating system to
 ● Main goal: To prevent race conditions, buffer overflow, and buffer underflow.
 <br>
 <br>
-## Reader–Writer Problem
+#Reader–Writer Problem
 <br>
 The Reader–Writer Problem is an OS synchronization problem where multiple readers can read shared data simultaneously, but only one writer can modify the data at a time.
 <br>
