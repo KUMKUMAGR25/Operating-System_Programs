@@ -76,7 +76,7 @@ Inter-Process Communication (IPC) is a mechanism used by the operating system to
 ● Main goal: To prevent race conditions, buffer overflow, and buffer underflow.
 <br>
 <br>
-#Reader–Writer Problem
+#7. Reader–Writer Problem
 <br>
 The Reader–Writer Problem is an OS synchronization problem where multiple readers can read shared data simultaneously, but only one writer can modify the data at a time.
 <br>
@@ -93,7 +93,7 @@ The Reader–Writer Problem is an OS synchronization problem where multiple read
 *Applications: Databases, file systems, and shared memory management.
 <br>
 <br>
-#Dining Philosophers Problem
+#8. Dining Philosophers Problem
 <br>
 The Dining Philosophers Problem is an OS synchronization problem in which five philosophers share five forks. Each philosopher needs two forks to eat.
 <br>
