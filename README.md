@@ -91,4 +91,21 @@ The Reader–Writer Problem is an OS synchronization problem where multiple read
 *Solution: Semaphores and mutex locks are used to prevent race conditions and maintain data consistency.
 <br>
 *Applications: Databases, file systems, and shared memory management.
+<br>
+<br>
+#Dining Philosophers Problem
+<br>
+The Dining Philosophers Problem is an OS synchronization problem in which five philosophers share five forks. Each philosopher needs two forks to eat.
+<br>
+*Rules
+<br>
+-A philosopher can either think or eat.
+<br>
+-Each philosopher needs two forks to eat.
+<br>
+-Only one philosopher can use a fork at a time.
+<br>
+*Solution Semaphores and mutex locks are used to prevent deadlock and ensure proper synchronization.
+<br>
+*Applications Resource allocation and process synchronization in operating systems.
 
